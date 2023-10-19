@@ -1,0 +1,37 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.info div {
+  display: flex;
+  flex-direction: column;
+}
+
+.info img {
+  width: 6rem;
+}
+
+.nav-list {
+  display: flex;
+  gap: 2rem;
+}
+
+a {
+  color: #FFF;
+
+  font-size:  1.6rem;
+
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 0.7;
+}
