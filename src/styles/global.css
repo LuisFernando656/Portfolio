@@ -13,9 +13,11 @@ a {
 }
 
 body {
-  background-color: #00000f;
+  height: 100vh;
+
+  background-color: #202529;
 
   color: beige;
 
-  margin-top: 3rem;
+  font-family: 'Poppins', sans-serif;
 }
